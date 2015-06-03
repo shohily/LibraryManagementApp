@@ -1,0 +1,9 @@
+C:\Users\USER-PC\Desktop\LibraryManagementApp\LibraryManagementApp\bin\Debug\LibraryManagementApp.exe.config
+C:\Users\USER-PC\Desktop\LibraryManagementApp\LibraryManagementApp\bin\Debug\LibraryManagementApp.exe
+C:\Users\USER-PC\Desktop\LibraryManagementApp\LibraryManagementApp\bin\Debug\LibraryManagementApp.pdb
+C:\Users\USER-PC\Desktop\LibraryManagementApp\LibraryManagementApp\obj\Debug\LibraryManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\USER-PC\Desktop\LibraryManagementApp\LibraryManagementApp\obj\Debug\LibraryManagementApp.LibraryManagement.resources
+C:\Users\USER-PC\Desktop\LibraryManagementApp\LibraryManagementApp\obj\Debug\LibraryManagementApp.Properties.Resources.resources
+C:\Users\USER-PC\Desktop\LibraryManagementApp\LibraryManagementApp\obj\Debug\LibraryManagementApp.csproj.GenerateResource.Cache
+C:\Users\USER-PC\Desktop\LibraryManagementApp\LibraryManagementApp\obj\Debug\LibraryManagementApp.exe
+C:\Users\USER-PC\Desktop\LibraryManagementApp\LibraryManagementApp\obj\Debug\LibraryManagementApp.pdb
